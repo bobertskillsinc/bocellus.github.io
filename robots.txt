@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bocellus.github.io/sitemap.xml
